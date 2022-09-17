@@ -1,4 +1,4 @@
 Hello World
-Hey
+Hey Friend
 Hi Buddy!
 Good night
